@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6b07b408e874e6f23d63566e"
+  },
+  "fecha_corte": "2024-03-17",
+  "departamento": "LIMA",
+  "provincia": "LIMA",
+  "distrito": "COMAS",
+  "metododx": "PCR",
+  "edad": 35,
+  "sexo": "MASCULINO",
+  "fecha_resultado": "2021-05-15",
+  "ubigeo": "150110",
+  "id_persona": "100001"
+},
+{
+  "_id": {
+    "$oid": "6b07b529e874e6f23d63567c"
+  },
+  "fecha_corte": "2024-03-17",
+  "departamento": "LIMA",
+  "provincia": "LIMA",
+  "distrito": "COMAS",
+  "metododx": "PCR",
+  "edad": 35,
+  "sexo": "MASCULINO",
+  "fecha_resultado": "2021-05-15",
+  "ubigeo": "150110",
+  "id_persona": "100001"
+},
+{
+  "_id": {
+    "$oid": "6b07b529e874e6f23d63567d"
+  },
+  "fecha_corte": "2024-03-17",
+  "departamento": "JUNIN",
+  "provincia": "TARMA",
+  "distrito": "TARMA",
+  "metododx": "AG",
+  "edad": 24,
+  "sexo": "FEMENINO",
+  "fecha_resultado": "2022-01-12",
+  "ubigeo": "120701",
+  "id_persona": "100002"
+},
+{
+  "_id": {
+    "$oid": "6b07b529e874e6f23d63567e"
+  },
+  "fecha_corte": "2024-03-17",
+  "departamento": "AREQUIPA",
+  "provincia": "AREQUIPA",
+  "distrito": "AREQUIPA",
+  "metododx": "PCR",
+  "edad": 45,
+  "sexo": "MASCULINO",
+  "fecha_resultado": "2021-08-10",
+  "ubigeo": "040101",
+  "id_persona": "100003"
+},
+{
+  "_id": {
+    "$oid": "6b07b529e874e6f23d63567f"
+  },
+  "fecha_corte": "2024-03-17",
+  "departamento": "CUSCO",
+  "provincia": "CUSCO",
+  "distrito": "CUSCO",
+  "metododx": "AG",
+  "edad": 32,
+  "sexo": "FEMENINO",
+  "fecha_resultado": "2022-02-18",
+  "ubigeo": "080101",
+  "id_persona": "100004"
+},
+{
+  "_id": {
+    "$oid": "6b07b529e874e6f23d635680"
+  },
+  "fecha_corte": "2024-03-17",
+  "departamento": "PIURA",
+  "provincia": "PIURA",
+  "distrito": "PIURA",
+  "metododx": "PCR",
+  "edad": 58,
+  "sexo": "MASCULINO",
+  "fecha_resultado": "2021-06-25",
+  "ubigeo": "200101",
+  "id_persona": "100005"
+}]
